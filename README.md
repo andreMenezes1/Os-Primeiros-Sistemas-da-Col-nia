@@ -111,11 +111,4 @@ energia = [20, 25, 30, 22, 27] # kWh
 
 ---
 
-## 🎯 Critérios Atendidos
-
-- ✅ Estruturação de dados (listas, dicionários, hierarquia)
-- ✅ Lógica de decisão com múltiplas condições e priorização
-- ✅ Modelagem e previsão por regressão linear simples
-- ✅ Implementação em Python puro (sem bibliotecas externas)
-- ✅ Documentação clara com exemplos de entrada e saída
 
